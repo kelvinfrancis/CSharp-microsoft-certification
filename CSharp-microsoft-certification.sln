@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge-project-foreach-if-array-CSharp-main", "Challenge-project-foreach-if-array-CSharp-main", "{577F1011-AC1A-49BA-802D-B620C27CB311}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChallengeProject", "ChallengeProject", "{B0000D57-6D0C-4717-AE9B-4984C4160BDC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\Starter.csproj", "{A3AFF295-35AE-441F-9DB6-05D98CBC59F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final", "Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Final\Final.csproj", "{155D544B-DF61-47F3-94EA-D7C8BA82702A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3AFF295-35AE-441F-9DB6-05D98CBC59F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AFF295-35AE-441F-9DB6-05D98CBC59F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AFF295-35AE-441F-9DB6-05D98CBC59F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AFF295-35AE-441F-9DB6-05D98CBC59F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155D544B-DF61-47F3-94EA-D7C8BA82702A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155D544B-DF61-47F3-94EA-D7C8BA82702A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155D544B-DF61-47F3-94EA-D7C8BA82702A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155D544B-DF61-47F3-94EA-D7C8BA82702A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B0000D57-6D0C-4717-AE9B-4984C4160BDC} = {577F1011-AC1A-49BA-802D-B620C27CB311}
+		{A3AFF295-35AE-441F-9DB6-05D98CBC59F9} = {B0000D57-6D0C-4717-AE9B-4984C4160BDC}
+		{155D544B-DF61-47F3-94EA-D7C8BA82702A} = {B0000D57-6D0C-4717-AE9B-4984C4160BDC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C77BC9C3-5874-459D-BA25-B128BFEB769B}
+	EndGlobalSection
+EndGlobal
