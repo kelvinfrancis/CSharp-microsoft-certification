@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/bin/Debug/net8.0/exercise-conditional-operator
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/bin/Debug/net8.0/exercise-conditional-operator.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/bin/Debug/net8.0/exercise-conditional-operator.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/bin/Debug/net8.0/exercise-conditional-operator.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/bin/Debug/net8.0/exercise-conditional-operator.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/obj/Debug/net8.0/exercise-conditional-operator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/obj/Debug/net8.0/exercise-conditional-operator.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/obj/Debug/net8.0/exercise-conditional-operator.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/obj/Debug/net8.0/exercise-conditional-operator.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/obj/Debug/net8.0/exercise-conditional-operator.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/obj/Debug/net8.0/exercise-conditional-operator.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/obj/Debug/net8.0/refint/exercise-conditional-operator.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/obj/Debug/net8.0/exercise-conditional-operator.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/obj/Debug/net8.0/exercise-conditional-operator.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exercise-conditional-operator/obj/Debug/net8.0/ref/exercise-conditional-operator.dll
