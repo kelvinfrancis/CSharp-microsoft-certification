@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/bin/Debug/net8.0/code-blocks-and-variable-scope
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/bin/Debug/net8.0/code-blocks-and-variable-scope.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/bin/Debug/net8.0/code-blocks-and-variable-scope.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/bin/Debug/net8.0/code-blocks-and-variable-scope.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/bin/Debug/net8.0/code-blocks-and-variable-scope.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/obj/Debug/net8.0/refint/code-blocks-and-variable-scope.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/code-blocks-and-variable-scope/obj/Debug/net8.0/ref/code-blocks-and-variable-scope.dll
