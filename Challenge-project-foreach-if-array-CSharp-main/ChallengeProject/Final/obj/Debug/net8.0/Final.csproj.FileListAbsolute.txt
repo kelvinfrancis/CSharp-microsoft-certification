@@ -1,0 +1,15 @@
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.deps.json
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.dll
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.pdb
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.dll
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/refint/Final.dll
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.pdb
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/workspaces/CSharp-microsoft-certification/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/ref/Final.dll
