@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/bin/Debug/net8.0/switch-statement
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/bin/Debug/net8.0/switch-statement.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/bin/Debug/net8.0/switch-statement.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/bin/Debug/net8.0/switch-statement.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/bin/Debug/net8.0/switch-statement.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/obj/Debug/net8.0/switch-statement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/obj/Debug/net8.0/switch-statement.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/obj/Debug/net8.0/switch-statement.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/obj/Debug/net8.0/switch-statement.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/obj/Debug/net8.0/switch-statement.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/obj/Debug/net8.0/switch-statement.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/obj/Debug/net8.0/refint/switch-statement.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/obj/Debug/net8.0/switch-statement.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/obj/Debug/net8.0/switch-statement.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/switch-statement/obj/Debug/net8.0/ref/switch-statement.dll
