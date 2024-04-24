@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/bin/Debug/net8.0/iteration-loops
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/bin/Debug/net8.0/iteration-loops.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/bin/Debug/net8.0/iteration-loops.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/bin/Debug/net8.0/iteration-loops.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/bin/Debug/net8.0/iteration-loops.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/obj/Debug/net8.0/iteration-loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/obj/Debug/net8.0/iteration-loops.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/obj/Debug/net8.0/iteration-loops.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/obj/Debug/net8.0/iteration-loops.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/obj/Debug/net8.0/iteration-loops.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/obj/Debug/net8.0/iteration-loops.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/obj/Debug/net8.0/refint/iteration-loops.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/obj/Debug/net8.0/iteration-loops.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/obj/Debug/net8.0/iteration-loops.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/iteration-loops/obj/Debug/net8.0/ref/iteration-loops.dll
