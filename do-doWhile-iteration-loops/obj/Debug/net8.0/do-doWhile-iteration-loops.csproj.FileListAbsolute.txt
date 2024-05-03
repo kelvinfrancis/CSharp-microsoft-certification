@@ -1,0 +1,15 @@
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/obj/Debug/net8.0/do-doWhile-iteration-loops.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/obj/Debug/net8.0/do-doWhile-iteration-loops.AssemblyInfoInputs.cache
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/obj/Debug/net8.0/do-doWhile-iteration-loops.AssemblyInfo.cs
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/obj/Debug/net8.0/do-doWhile-iteration-loops.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/obj/Debug/net8.0/do-doWhile-iteration-loops.sourcelink.json
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/bin/Debug/net8.0/do-doWhile-iteration-loops
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/bin/Debug/net8.0/do-doWhile-iteration-loops.deps.json
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/bin/Debug/net8.0/do-doWhile-iteration-loops.runtimeconfig.json
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/bin/Debug/net8.0/do-doWhile-iteration-loops.dll
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/bin/Debug/net8.0/do-doWhile-iteration-loops.pdb
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/obj/Debug/net8.0/do-doWhile-iteration-loops.dll
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/obj/Debug/net8.0/refint/do-doWhile-iteration-loops.dll
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/obj/Debug/net8.0/do-doWhile-iteration-loops.pdb
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/obj/Debug/net8.0/do-doWhile-iteration-loops.genruntimeconfig.cache
+/workspaces/CSharp-microsoft-certification/do-doWhile-iteration-loops/obj/Debug/net8.0/ref/do-doWhile-iteration-loops.dll
