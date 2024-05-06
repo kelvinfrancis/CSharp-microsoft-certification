@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/bin/Debug/net8.0/ejercicio-identificacion-de-tipos-enteros
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/bin/Debug/net8.0/ejercicio-identificacion-de-tipos-enteros.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/bin/Debug/net8.0/ejercicio-identificacion-de-tipos-enteros.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/bin/Debug/net8.0/ejercicio-identificacion-de-tipos-enteros.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/bin/Debug/net8.0/ejercicio-identificacion-de-tipos-enteros.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/obj/Debug/net8.0/ejercicio-identificacion-de-tipos-enteros.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/obj/Debug/net8.0/ejercicio-identificacion-de-tipos-enteros.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/obj/Debug/net8.0/ejercicio-identificacion-de-tipos-enteros.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/obj/Debug/net8.0/ejercicio-identificacion-de-tipos-enteros.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/obj/Debug/net8.0/ejercicio-identificacion-de-tipos-enteros.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/obj/Debug/net8.0/ejercicio-identificacion-de-tipos-enteros.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/obj/Debug/net8.0/refint/ejercicio-identificacion-de-tipos-enteros.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/obj/Debug/net8.0/ejercicio-identificacion-de-tipos-enteros.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/obj/Debug/net8.0/ejercicio-identificacion-de-tipos-enteros.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-de-tipos-enteros/obj/Debug/net8.0/ref/ejercicio-identificacion-de-tipos-enteros.dll
