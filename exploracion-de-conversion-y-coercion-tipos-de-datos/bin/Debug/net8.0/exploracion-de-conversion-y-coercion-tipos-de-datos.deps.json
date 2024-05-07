@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "exploracion-de-conversion-y-coercion-tipos-de-datos/1.0.0": {
+        "runtime": {
+          "exploracion-de-conversion-y-coercion-tipos-de-datos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exploracion-de-conversion-y-coercion-tipos-de-datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/bin/Debug/net8.0/exploracion-de-conversion-y-coercion-tipos-de-datos
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/bin/Debug/net8.0/exploracion-de-conversion-y-coercion-tipos-de-datos.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/bin/Debug/net8.0/exploracion-de-conversion-y-coercion-tipos-de-datos.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/bin/Debug/net8.0/exploracion-de-conversion-y-coercion-tipos-de-datos.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/bin/Debug/net8.0/exploracion-de-conversion-y-coercion-tipos-de-datos.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/obj/Debug/net8.0/exploracion-de-conversion-y-coercion-tipos-de-datos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/obj/Debug/net8.0/exploracion-de-conversion-y-coercion-tipos-de-datos.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/obj/Debug/net8.0/exploracion-de-conversion-y-coercion-tipos-de-datos.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/obj/Debug/net8.0/exploracion-de-conversion-y-coercion-tipos-de-datos.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/obj/Debug/net8.0/exploracion-de-conversion-y-coercion-tipos-de-datos.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/obj/Debug/net8.0/exploracion-de-conversion-y-coercion-tipos-de-datos.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/obj/Debug/net8.0/refint/exploracion-de-conversion-y-coercion-tipos-de-datos.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/obj/Debug/net8.0/exploracion-de-conversion-y-coercion-tipos-de-datos.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/obj/Debug/net8.0/exploracion-de-conversion-y-coercion-tipos-de-datos.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/exploracion-de-conversion-y-coercion-tipos-de-datos/obj/Debug/net8.0/ref/exploracion-de-conversion-y-coercion-tipos-de-datos.dll
