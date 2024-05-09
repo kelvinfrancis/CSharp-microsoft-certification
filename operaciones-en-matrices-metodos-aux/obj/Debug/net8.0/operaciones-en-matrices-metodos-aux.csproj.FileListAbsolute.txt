@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/bin/Debug/net8.0/operaciones-en-matrices-metodos-aux
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/bin/Debug/net8.0/operaciones-en-matrices-metodos-aux.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/bin/Debug/net8.0/operaciones-en-matrices-metodos-aux.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/bin/Debug/net8.0/operaciones-en-matrices-metodos-aux.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/bin/Debug/net8.0/operaciones-en-matrices-metodos-aux.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/obj/Debug/net8.0/operaciones-en-matrices-metodos-aux.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/obj/Debug/net8.0/operaciones-en-matrices-metodos-aux.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/obj/Debug/net8.0/operaciones-en-matrices-metodos-aux.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/obj/Debug/net8.0/operaciones-en-matrices-metodos-aux.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/obj/Debug/net8.0/operaciones-en-matrices-metodos-aux.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/obj/Debug/net8.0/operaciones-en-matrices-metodos-aux.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/obj/Debug/net8.0/refint/operaciones-en-matrices-metodos-aux.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/obj/Debug/net8.0/operaciones-en-matrices-metodos-aux.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/obj/Debug/net8.0/operaciones-en-matrices-metodos-aux.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/operaciones-en-matrices-metodos-aux/obj/Debug/net8.0/ref/operaciones-en-matrices-metodos-aux.dll
