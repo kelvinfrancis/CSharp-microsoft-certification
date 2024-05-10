@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-conceptos-basicos-formato-de-cadena/ejercicio-identificacion-conceptos-basicos-formato-de-cadena.csproj": {}
+    "/workspaces/CSharp-microsoft-certification/ejercicio-identificacion-conceptos-basicos-formato-de-cadena/ejercicio-identificacion-conceptos-basicos-formato-de-cadena.csproj": {}
   },
   "projects": {
-    "/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-conceptos-basicos-formato-de-cadena/ejercicio-identificacion-conceptos-basicos-formato-de-cadena.csproj": {
+    "/workspaces/CSharp-microsoft-certification/ejercicio-identificacion-conceptos-basicos-formato-de-cadena/ejercicio-identificacion-conceptos-basicos-formato-de-cadena.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-conceptos-basicos-formato-de-cadena/ejercicio-identificacion-conceptos-basicos-formato-de-cadena.csproj",
+        "projectUniqueName": "/workspaces/CSharp-microsoft-certification/ejercicio-identificacion-conceptos-basicos-formato-de-cadena/ejercicio-identificacion-conceptos-basicos-formato-de-cadena.csproj",
         "projectName": "ejercicio-identificacion-conceptos-basicos-formato-de-cadena",
-        "projectPath": "/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-conceptos-basicos-formato-de-cadena/ejercicio-identificacion-conceptos-basicos-formato-de-cadena.csproj",
-        "packagesPath": "/Users/kelvinmoquetepena/.nuget/packages/",
-        "outputPath": "/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/ejercicio-identificacion-conceptos-basicos-formato-de-cadena/obj/",
+        "projectPath": "/workspaces/CSharp-microsoft-certification/ejercicio-identificacion-conceptos-basicos-formato-de-cadena/ejercicio-identificacion-conceptos-basicos-formato-de-cadena.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/CSharp-microsoft-certification/ejercicio-identificacion-conceptos-basicos-formato-de-cadena/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kelvinmoquetepena/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
