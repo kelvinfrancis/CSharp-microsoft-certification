@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ejercicio-identificacion-conceptos-basicos-formato-de-cadena")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+311c22df3195e755b4c7c3616ffa45fa8f25ab80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad82e21412e5596ef19a320b12398671b2617dad")]
 [assembly: System.Reflection.AssemblyProductAttribute("ejercicio-identificacion-conceptos-basicos-formato-de-cadena")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ejercicio-identificacion-conceptos-basicos-formato-de-cadena")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
