@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "uso-metodo-indexOf-Substring/1.0.0": {
+        "runtime": {
+          "uso-metodo-indexOf-Substring.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uso-metodo-indexOf-Substring/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

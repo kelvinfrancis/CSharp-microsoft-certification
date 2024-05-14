@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/bin/Debug/net8.0/uso-metodo-indexOf-Substring
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/bin/Debug/net8.0/uso-metodo-indexOf-Substring.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/bin/Debug/net8.0/uso-metodo-indexOf-Substring.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/bin/Debug/net8.0/uso-metodo-indexOf-Substring.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/bin/Debug/net8.0/uso-metodo-indexOf-Substring.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/obj/Debug/net8.0/uso-metodo-indexOf-Substring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/obj/Debug/net8.0/uso-metodo-indexOf-Substring.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/obj/Debug/net8.0/uso-metodo-indexOf-Substring.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/obj/Debug/net8.0/uso-metodo-indexOf-Substring.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/obj/Debug/net8.0/uso-metodo-indexOf-Substring.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/obj/Debug/net8.0/uso-metodo-indexOf-Substring.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/obj/Debug/net8.0/refint/uso-metodo-indexOf-Substring.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/obj/Debug/net8.0/uso-metodo-indexOf-Substring.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/obj/Debug/net8.0/uso-metodo-indexOf-Substring.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/uso-metodo-indexOf-Substring/obj/Debug/net8.0/ref/uso-metodo-indexOf-Substring.dll
