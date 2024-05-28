@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/bin/Debug/net8.0/methods-that-return-values
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/bin/Debug/net8.0/methods-that-return-values.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/bin/Debug/net8.0/methods-that-return-values.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/bin/Debug/net8.0/methods-that-return-values.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/bin/Debug/net8.0/methods-that-return-values.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/obj/Debug/net8.0/methods-that-return-values.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/obj/Debug/net8.0/methods-that-return-values.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/obj/Debug/net8.0/methods-that-return-values.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/obj/Debug/net8.0/methods-that-return-values.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/obj/Debug/net8.0/methods-that-return-values.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/obj/Debug/net8.0/methods-that-return-values.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/obj/Debug/net8.0/refint/methods-that-return-values.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/obj/Debug/net8.0/methods-that-return-values.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/obj/Debug/net8.0/methods-that-return-values.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-that-return-values/obj/Debug/net8.0/ref/methods-that-return-values.dll
