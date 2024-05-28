@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/bin/Debug/net8.0/methods-with-parameters
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/bin/Debug/net8.0/methods-with-parameters.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/bin/Debug/net8.0/methods-with-parameters.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/bin/Debug/net8.0/methods-with-parameters.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/bin/Debug/net8.0/methods-with-parameters.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/obj/Debug/net8.0/refint/methods-with-parameters.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/methods-with-parameters/obj/Debug/net8.0/ref/methods-with-parameters.dll
