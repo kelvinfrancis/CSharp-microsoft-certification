@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Guided-project-Plan-Petting-Zoo-Visi/1.0.0": {
+        "runtime": {
+          "Guided-project-Plan-Petting-Zoo-Visi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guided-project-Plan-Petting-Zoo-Visi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

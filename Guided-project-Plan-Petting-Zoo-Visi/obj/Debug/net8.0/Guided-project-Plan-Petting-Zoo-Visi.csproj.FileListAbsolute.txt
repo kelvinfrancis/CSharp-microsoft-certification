@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/bin/Debug/net8.0/Guided-project-Plan-Petting-Zoo-Visi
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/bin/Debug/net8.0/Guided-project-Plan-Petting-Zoo-Visi.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/bin/Debug/net8.0/Guided-project-Plan-Petting-Zoo-Visi.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/bin/Debug/net8.0/Guided-project-Plan-Petting-Zoo-Visi.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/bin/Debug/net8.0/Guided-project-Plan-Petting-Zoo-Visi.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/obj/Debug/net8.0/Guided-project-Plan-Petting-Zoo-Visi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/obj/Debug/net8.0/Guided-project-Plan-Petting-Zoo-Visi.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/obj/Debug/net8.0/Guided-project-Plan-Petting-Zoo-Visi.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/obj/Debug/net8.0/Guided-project-Plan-Petting-Zoo-Visi.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/obj/Debug/net8.0/Guided-project-Plan-Petting-Zoo-Visi.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/obj/Debug/net8.0/Guided-project-Plan-Petting-Zoo-Visi.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/obj/Debug/net8.0/refint/Guided-project-Plan-Petting-Zoo-Visi.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/obj/Debug/net8.0/Guided-project-Plan-Petting-Zoo-Visi.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/obj/Debug/net8.0/Guided-project-Plan-Petting-Zoo-Visi.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Plan-Petting-Zoo-Visi/obj/Debug/net8.0/ref/Guided-project-Plan-Petting-Zoo-Visi.dll
