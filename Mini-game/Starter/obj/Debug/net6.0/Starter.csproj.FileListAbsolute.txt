@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/bin/Debug/net6.0/Starter
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/bin/Debug/net6.0/Starter.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/bin/Debug/net6.0/Starter.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/bin/Debug/net6.0/Starter.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/bin/Debug/net6.0/Starter.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/obj/Debug/net6.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/obj/Debug/net6.0/Starter.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/obj/Debug/net6.0/Starter.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/obj/Debug/net6.0/Starter.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/obj/Debug/net6.0/Starter.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/obj/Debug/net6.0/Starter.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/obj/Debug/net6.0/refint/Starter.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/obj/Debug/net6.0/Starter.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/obj/Debug/net6.0/Starter.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Mini-game/Starter/obj/Debug/net6.0/ref/Starter.dll
