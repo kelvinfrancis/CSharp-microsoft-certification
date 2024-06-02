@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/bin/Debug/net8.0/vscode-debugging-tools
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/bin/Debug/net8.0/vscode-debugging-tools.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/bin/Debug/net8.0/vscode-debugging-tools.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/bin/Debug/net8.0/vscode-debugging-tools.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/bin/Debug/net8.0/vscode-debugging-tools.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/obj/Debug/net8.0/vscode-debugging-tools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/obj/Debug/net8.0/vscode-debugging-tools.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/obj/Debug/net8.0/vscode-debugging-tools.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/obj/Debug/net8.0/vscode-debugging-tools.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/obj/Debug/net8.0/vscode-debugging-tools.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/obj/Debug/net8.0/vscode-debugging-tools.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/obj/Debug/net8.0/refint/vscode-debugging-tools.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/obj/Debug/net8.0/vscode-debugging-tools.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/obj/Debug/net8.0/vscode-debugging-tools.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/vscode-debugging-tools/obj/Debug/net8.0/ref/vscode-debugging-tools.dll

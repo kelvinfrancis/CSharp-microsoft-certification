@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "vscode-debugging-tools/1.0.0": {
+        "runtime": {
+          "vscode-debugging-tools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vscode-debugging-tools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
