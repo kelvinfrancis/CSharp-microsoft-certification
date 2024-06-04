@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/bin/Debug/net8.0/try-catch_exception_handling
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/bin/Debug/net8.0/try-catch_exception_handling.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/bin/Debug/net8.0/try-catch_exception_handling.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/bin/Debug/net8.0/try-catch_exception_handling.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/bin/Debug/net8.0/try-catch_exception_handling.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/obj/Debug/net8.0/try-catch_exception_handling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/obj/Debug/net8.0/try-catch_exception_handling.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/obj/Debug/net8.0/try-catch_exception_handling.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/obj/Debug/net8.0/try-catch_exception_handling.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/obj/Debug/net8.0/try-catch_exception_handling.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/obj/Debug/net8.0/try-catch_exception_handling.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/obj/Debug/net8.0/refint/try-catch_exception_handling.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/obj/Debug/net8.0/try-catch_exception_handling.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/obj/Debug/net8.0/try-catch_exception_handling.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/try-catch_exception_handling/obj/Debug/net8.0/ref/try-catch_exception_handling.dll
