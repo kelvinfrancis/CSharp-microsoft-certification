@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/bin/Debug/net8.0/throw-exceptions
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/bin/Debug/net8.0/throw-exceptions.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/bin/Debug/net8.0/throw-exceptions.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/bin/Debug/net8.0/throw-exceptions.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/bin/Debug/net8.0/throw-exceptions.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/obj/Debug/net8.0/throw-exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/obj/Debug/net8.0/throw-exceptions.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/obj/Debug/net8.0/throw-exceptions.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/obj/Debug/net8.0/throw-exceptions.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/obj/Debug/net8.0/throw-exceptions.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/obj/Debug/net8.0/throw-exceptions.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/obj/Debug/net8.0/refint/throw-exceptions.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/obj/Debug/net8.0/throw-exceptions.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/obj/Debug/net8.0/throw-exceptions.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/throw-exceptions/obj/Debug/net8.0/ref/throw-exceptions.dll
