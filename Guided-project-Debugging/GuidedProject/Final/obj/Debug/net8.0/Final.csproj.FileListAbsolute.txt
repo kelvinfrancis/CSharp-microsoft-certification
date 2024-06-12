@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/bin/Debug/net8.0/Final
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/bin/Debug/net8.0/Final.deps.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/bin/Debug/net8.0/Final.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/bin/Debug/net8.0/Final.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/obj/Debug/net8.0/Final.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/obj/Debug/net8.0/refint/Final.dll
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/obj/Debug/net8.0/Final.pdb
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/CSharp-microsoft-certification/Guided-project-Debugging/GuidedProject/Final/obj/Debug/net8.0/ref/Final.dll
